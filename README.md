@@ -1,1 +1,1 @@
-# CS330 | Spring 2021
+# CS330 - Design Patterns | Spring 2021
